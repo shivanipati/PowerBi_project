@@ -23,3 +23,18 @@ The objective of the "FlipCard_Inside" Power BI dashboard is to analyze and visu
 -What are the growth rates in sales across regions?
 
 -Dashboard Interaction <a href="https://github.com/shivanipati/PowerBi_project/blob/main/Screenshot%202024-10-01%20082900.png">View Dashboard</a>
+
+## Process
+
+-Gather Data: Start by collecting the necessary data, such as sales, customer information, product performance, or marketing data. Make sure the data is clean and organized.
+
+-Data Cleaning: Use Power Query in Power BI to clean the data. This includes handling missing values, removing duplicates, and formatting data types correctly.
+
+-Identify Key Metrics: Based on the business objectives of the FlipCard_Inside project, define the key metrics you want to track (e.g., Total Sales, Top-Selling Products, Customer Retention, etc.).
+
+-Use Filters & Slicers: Add interactive elements like filters and slicers to allow users to explore data by time periods, product categories, or regions.
+
+## Dashboard
+![Screenshot 2024-10-01 082900](https://github.com/user-attachments/assets/fa949fa4-1fc7-41b7-be38-3d4f010a89bf)
+
+
